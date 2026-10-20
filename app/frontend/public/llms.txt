@@ -35,26 +35,26 @@
 
 ## Pages
 
-- [Home](https://agnavelis.com/): brand overview, product summary, target supply
+- [Home](https://www.agnavelis.com/): brand overview, product summary, target supply
   channels, manufacturer information and product FAQ.
-- [Silver Nitrate Applicator Sticks](https://agnavelis.com/silver-nitrate-applicator-sticks):
+- [Silver Nitrate Applicator Sticks](https://www.agnavelis.com/silver-nitrate-applicator-sticks):
   full specification table, intended purpose, contraindications, warnings summary
   and storage information.
-- [Manufacturer](https://agnavelis.com/manufacturer): company details and the
+- [Manufacturer](https://www.agnavelis.com/manufacturer): company details and the
   manufacturing and supply approach.
-- [Product Documentation](https://agnavelis.com/quality-documentation): documents
+- [Product Documentation](https://www.agnavelis.com/quality-documentation): documents
   available for download and documents available on request.
-- [Instructions for Use](https://agnavelis.com/instructions-for-use): English
+- [Instructions for Use](https://www.agnavelis.com/instructions-for-use): English
   summary of IFU-AGN-00, Rev. 00 with the full bilingual document download.
-- [Contact](https://agnavelis.com/contact): WhatsApp, email, telephone and
+- [Contact](https://www.agnavelis.com/contact): WhatsApp, email, telephone and
   manufacturer address for B2B export enquiries.
 
 ## Documents
 
 - Instructions for Use (English and Turkish, IFU-AGN-00, Rev. 00):
-  https://agnavelis.com/docs/AGNAVELIS-Silver-Nitrate-Applicator-Sticks-IFU-EN-TR-Rev00.docx
+  https://www.agnavelis.com/docs/AGNAVELIS-Silver-Nitrate-Applicator-Sticks-IFU-EN-TR-Rev00.docx
 - Product brochure (PDF):
-  https://agnavelis.com/docs/AGNAVELIS-Silver-Nitrate-Applicator-Sticks-Brochure.pdf
+  https://www.agnavelis.com/docs/AGNAVELIS-Silver-Nitrate-Applicator-Sticks-Brochure.pdf
 
 ## Contact for business enquiries
 
