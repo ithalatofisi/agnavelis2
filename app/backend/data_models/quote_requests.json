@@ -1,0 +1,27 @@
+{
+    "title": "quote_requests",
+    "type": "object",
+    "properties": {
+        "id": {
+            "type": "integer"
+        },
+        "request_key": {
+            "type": "string"
+        },
+        "payload_hash": {
+            "type": "string"
+        },
+        "ip_hash": {
+            "type": "string"
+        },
+        "status": {
+            "type": "string"
+        }
+    },
+    "required": [
+        "request_key",
+        "payload_hash",
+        "ip_hash",
+        "status"
+    ]
+}

@@ -1,0 +1,34 @@
+Önerdiğin çözümle ilerle. Minimum kredi kullanarak yalnızca aşağıdaki işleri yap:
+
+1. Mevcut /contact/ sayfasına İngilizce B2B teklif formu ekle:
+- Company name: zorunlu.
+- Country: zorunlu ülke seçimi.
+- Quantity requested (packs): zorunlu, pozitif tam sayı. Alt açıklama: “1 pack = 100 sticks”.
+- Contact name: zorunlu.
+- Business email: zorunlu, e-posta biçimi doğrulamalı. Gmail gibi adresleri engelleme.
+- Phone / WhatsApp (including country code): isteğe bağlı.
+- Message: isteğe bağlı.
+- Gönderim butonu: “Request a B2B Quote”.
+
+2. Ana sayfa ve ürün sayfasındaki “Request a Quote” butonlarını bu forma yönlendir. Ayrı WhatsApp butonlarını mevcut numarayla koru. Formun yanında WhatsApp ile iletişim seçeneği de bulunsun.
+
+3. Form gönderimi:
+- Önce mevcut Atoms Cloud projesinde kullanılabilir e-posta gönderim imkânını kontrol et.
+- Alıcı export@agnavelis.com olsun.
+- Ziyaretçinin e-postasını Reply-To olarak kullan; From alanında doğrulanmış gönderici kullan.
+- Sunucu tarafında alan doğrulaması, temel spam koruması ve tekrar gönderim koruması uygula.
+- Servis anahtarlarını yalnızca sunucu tarafında sakla.
+- Gönderim hatasında başarı mesajı gösterme; girilen bilgileri koru.
+- E-posta servisi, yeni hesap, DNS doğrulaması veya ek ücret gerekiyorsa gerekenleri tek mesajda açıkla. Onayım olmadan ücretli hizmet başlatma.
+- Gönderim altyapısı yapılandırılmadan formu çalışıyor gibi yayımlama.
+
+4. Mevcut tek GA4 etiketini ve G-7TMC0025H8 kimliğini koru:
+- quote_form_click: forma yönlendiren CTA tıklamasında.
+- generate_lead: sunucu doğrulaması ve e-posta servisinin gönderim isteğini başarıyla kabul etmesinden sonra, bir kez.
+- whatsapp_click: WhatsApp bağlantısına tıklanınca, bir kez.
+- Ad, firma adı, e-posta, telefon, mesaj veya WhatsApp mesaj URL’sini GA4’e gönderme.
+- Analitik izin tercihini uygula; izin verilmediğinde analitik ölçüm başlatma.
+
+5. Formu mobil ve masaüstünde kontrol et. Eksik alan, geçersiz e-posta, gönderim hatası ve çift tıklama senaryolarını test et. Gerçek e-posta teslimi ve GA4 DebugView kontrolünü yalnızca doğrulayabildiğinde tamamlandı olarak raporla.
+
+URL, canonical, sitemap ve ilgisiz sayfaları değiştirme. İş bitince yapılanları, eksik yapılandırmayı ve yayın durumunu kısa şekilde bildir.

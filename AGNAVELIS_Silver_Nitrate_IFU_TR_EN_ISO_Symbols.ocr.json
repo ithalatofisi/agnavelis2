@@ -1,0 +1,107 @@
+{
+  "file_path": "/workspace/uploads/AGNAVELIS_Silver_Nitrate_IFU_TR_EN_ISO_Symbols.docx",
+  "markdown_path": "/workspace/AGNAVELIS_Silver_Nitrate_IFU_TR_EN_ISO_Symbols.md",
+  "ocr_enabled": true,
+  "ocr_limit": 20,
+  "image_count": 12,
+  "ocr_processed_count": 12,
+  "ocr_skipped_count": 0,
+  "images": [
+    {
+      "index": 5,
+      "image_path": "/workspace/AGNAVELIS_Silver_Nitrate_IFU_TR_EN_ISO_Symbols_assets/img_5.png",
+      "caption": "",
+      "ocr_result": "The image contains no text.",
+      "ocr_status": "success",
+      "message": "Image OCR completed successfully."
+    },
+    {
+      "index": 5,
+      "image_path": "/workspace/AGNAVELIS_Silver_Nitrate_IFU_TR_EN_ISO_Symbols_assets/img_5.png",
+      "caption": "",
+      "ocr_result": "There is no legible text in the provided image. It contains a graphical symbol of a factory.",
+      "ocr_status": "success",
+      "message": "Image OCR completed successfully."
+    },
+    {
+      "index": 6,
+      "image_path": "/workspace/AGNAVELIS_Silver_Nitrate_IFU_TR_EN_ISO_Symbols_assets/img_6.png",
+      "caption": "",
+      "ocr_result": "There is no text in this image.",
+      "ocr_status": "success",
+      "message": "Image OCR completed successfully."
+    },
+    {
+      "index": 6,
+      "image_path": "/workspace/AGNAVELIS_Silver_Nitrate_IFU_TR_EN_ISO_Symbols_assets/img_6.png",
+      "caption": "",
+      "ocr_result": "There is no text in the provided image.",
+      "ocr_status": "success",
+      "message": "Image OCR completed successfully."
+    },
+    {
+      "index": 7,
+      "image_path": "/workspace/AGNAVELIS_Silver_Nitrate_IFU_TR_EN_ISO_Symbols_assets/img_7.png",
+      "caption": "",
+      "ocr_result": "LOT",
+      "ocr_status": "success",
+      "message": "Image OCR completed successfully."
+    },
+    {
+      "index": 7,
+      "image_path": "/workspace/AGNAVELIS_Silver_Nitrate_IFU_TR_EN_ISO_Symbols_assets/img_7.png",
+      "caption": "",
+      "ocr_result": "LOT",
+      "ocr_status": "success",
+      "message": "Image OCR completed successfully."
+    },
+    {
+      "index": 8,
+      "image_path": "/workspace/AGNAVELIS_Silver_Nitrate_IFU_TR_EN_ISO_Symbols_assets/img_8.png",
+      "caption": "",
+      "ocr_result": "REF",
+      "ocr_status": "success",
+      "message": "Image OCR completed successfully."
+    },
+    {
+      "index": 8,
+      "image_path": "/workspace/AGNAVELIS_Silver_Nitrate_IFU_TR_EN_ISO_Symbols_assets/img_8.png",
+      "caption": "",
+      "ocr_result": "REF",
+      "ocr_status": "success",
+      "message": "Image OCR completed successfully."
+    },
+    {
+      "index": 9,
+      "image_path": "/workspace/AGNAVELIS_Silver_Nitrate_IFU_TR_EN_ISO_Symbols_assets/img_9.png",
+      "caption": "",
+      "ocr_result": "MD",
+      "ocr_status": "success",
+      "message": "Image OCR completed successfully."
+    },
+    {
+      "index": 9,
+      "image_path": "/workspace/AGNAVELIS_Silver_Nitrate_IFU_TR_EN_ISO_Symbols_assets/img_9.png",
+      "caption": "",
+      "ocr_result": "MD",
+      "ocr_status": "success",
+      "message": "Image OCR completed successfully."
+    },
+    {
+      "index": 10,
+      "image_path": "/workspace/AGNAVELIS_Silver_Nitrate_IFU_TR_EN_ISO_Symbols_assets/img_10.png",
+      "caption": "",
+      "ocr_result": "UDI",
+      "ocr_status": "success",
+      "message": "Image OCR completed successfully."
+    },
+    {
+      "index": 10,
+      "image_path": "/workspace/AGNAVELIS_Silver_Nitrate_IFU_TR_EN_ISO_Symbols_assets/img_10.png",
+      "caption": "",
+      "ocr_result": "UDI",
+      "ocr_status": "success",
+      "message": "Image OCR completed successfully."
+    }
+  ]
+}

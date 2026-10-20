@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Documents intended for professional buyers are crawlable
+Allow: /docs/
+Allow: /assets/
+
+Sitemap: https://agnavelis.com/sitemap.xml
