@@ -5,4 +5,4 @@ Allow: /
 Allow: /docs/
 Allow: /assets/
 
-Sitemap: https://agnavelis.com/sitemap.xml
+Sitemap: https://www.agnavelis.com/sitemap.xml
